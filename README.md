@@ -1,1 +1,1 @@
-# learner_from_ostad
+# Devolaper Details
